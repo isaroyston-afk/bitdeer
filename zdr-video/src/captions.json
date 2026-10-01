@@ -1,0 +1,666 @@
+[
+  {
+    "text": "TOKENS IN",
+    "startMs": 0,
+    "endMs": 1340,
+    "timestampMs": 0,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 0,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "TOKENS OUT!",
+    "startMs": 1340,
+    "endMs": 2480,
+    "timestampMs": 1340,
+    "confidence": null,
+    "tag": "HEY!",
+    "icon": null,
+    "mode": "verse",
+    "id": 1,
+    "lineOffsetsMs": [
+      0,
+      100
+    ],
+    "tagOffsetMs": 720
+  },
+  {
+    "text": "PROMPT IN|MY HEART",
+    "startMs": 2480,
+    "endMs": 3880,
+    "timestampMs": 2480,
+    "confidence": null,
+    "tag": null,
+    "icon": "heart",
+    "mode": "verse",
+    "id": 2,
+    "lineOffsetsMs": [
+      0,
+      420
+    ]
+  },
+  {
+    "text": "YOU KNOW I AM|THE RIGHT ONE!",
+    "startMs": 3880,
+    "endMs": 6280,
+    "timestampMs": 3880,
+    "confidence": null,
+    "tag": "UH!",
+    "icon": "heart",
+    "mode": "verse",
+    "id": 3,
+    "lineOffsetsMs": [
+      0,
+      1020
+    ],
+    "tagOffsetMs": 1850
+  },
+  {
+    "text": "BITDEER|AI MODEL STUDIO",
+    "startMs": 6280,
+    "endMs": 8160,
+    "timestampMs": 6280,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 4,
+    "lineOffsetsMs": [
+      0,
+      560
+    ]
+  },
+  {
+    "text": "CALL ME NOW",
+    "startMs": 8160,
+    "endMs": 9080,
+    "timestampMs": 8160,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 5,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "DEEP IN MY WEIGHTS,|A LOVE SPARK!",
+    "startMs": 9080,
+    "endMs": 10720,
+    "timestampMs": 9080,
+    "confidence": null,
+    "tag": null,
+    "icon": "heart",
+    "mode": "verse",
+    "id": 6,
+    "lineOffsetsMs": [
+      0,
+      660
+    ]
+  },
+  {
+    "text": "OUTPUT DONE!",
+    "startMs": 10720,
+    "endMs": 11680,
+    "timestampMs": 10720,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 7,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "OUTPUT DONE!",
+    "startMs": 11680,
+    "endMs": 12240,
+    "timestampMs": 11680,
+    "confidence": null,
+    "tag": "\u2713 COMPLETE",
+    "icon": null,
+    "mode": "verse",
+    "id": 8,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "CLEAR THE CACHE",
+    "startMs": 12240,
+    "endMs": 12660,
+    "timestampMs": 12240,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 9,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "THE ROMANCE|IS GONE!",
+    "startMs": 12660,
+    "endMs": 14540,
+    "timestampMs": 12660,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 10,
+    "lineOffsetsMs": [
+      0,
+      560
+    ]
+  },
+  {
+    "text": "I WILL NOT|REMEMBER YOU",
+    "startMs": 14540,
+    "endMs": 17200,
+    "timestampMs": 14540,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 11,
+    "lineOffsetsMs": [
+      0,
+      1180
+    ]
+  },
+  {
+    "text": "Z\u2014D\u2014R!",
+    "startMs": 17200,
+    "endMs": 18000,
+    "timestampMs": 17200,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 12,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "I WILL FORGET|EVERYTHING",
+    "startMs": 18000,
+    "endMs": 19400,
+    "timestampMs": 18000,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 13,
+    "lineOffsetsMs": [
+      0,
+      740
+    ]
+  },
+  {
+    "text": "BETWEEN US",
+    "startMs": 19400,
+    "endMs": 20700,
+    "timestampMs": 19400,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 14,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "Z\u2014D\u2014R!",
+    "startMs": 20700,
+    "endMs": 21200,
+    "timestampMs": 20700,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 15,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "MY GPU MEMORY",
+    "startMs": 21200,
+    "endMs": 22740,
+    "timestampMs": 21200,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 16,
+    "lineOffsetsMs": [
+      0,
+      100
+    ]
+  },
+  {
+    "text": "IS WIPED|SO CLEAN",
+    "startMs": 22740,
+    "endMs": 24440,
+    "timestampMs": 22740,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 17,
+    "lineOffsetsMs": [
+      0,
+      540
+    ]
+  },
+  {
+    "text": "LIKE YOUR|API KEY",
+    "startMs": 24440,
+    "endMs": 26200,
+    "timestampMs": 24440,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "verse",
+    "id": 18,
+    "lineOffsetsMs": [
+      0,
+      380
+    ]
+  },
+  {
+    "text": "WAS NEVER|SEEN!",
+    "startMs": 26200,
+    "endMs": 27900,
+    "timestampMs": 26200,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "verse",
+    "id": 19,
+    "lineOffsetsMs": [
+      0,
+      1060
+    ]
+  },
+  {
+    "text": "",
+    "startMs": 27900,
+    "endMs": 29420,
+    "timestampMs": 27900,
+    "confidence": null,
+    "tag": "DATA RETENTION",
+    "icon": null,
+    "mode": "break",
+    "id": 20,
+    "lineOffsetsMs": [
+      0,
+      100
+    ],
+    "stage": "loading"
+  },
+  {
+    "text": "ZERO DATA|RETENTION!",
+    "startMs": 29420,
+    "endMs": 32020,
+    "timestampMs": 29420,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 21,
+    "lineOffsetsMs": [
+      0,
+      1700
+    ],
+    "dataOffsetMs": 1340,
+    "zeroHitMs": 660
+  },
+  {
+    "text": "FORGETTING|YOU!",
+    "startMs": 32020,
+    "endMs": 33320,
+    "timestampMs": 32020,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "chorus",
+    "id": 22,
+    "lineOffsetsMs": [
+      0,
+      820
+    ]
+  },
+  {
+    "text": "ZERO DATA|RETENTION!",
+    "startMs": 33320,
+    "endMs": 35420,
+    "timestampMs": 33320,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 23,
+    "lineOffsetsMs": [
+      0,
+      1220
+    ],
+    "dataOffsetMs": 860,
+    "zeroHitMs": 400
+  },
+  {
+    "text": "WE ARE|THROUGH!",
+    "startMs": 35420,
+    "endMs": 36940,
+    "timestampMs": 35420,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 24,
+    "lineOffsetsMs": [
+      0,
+      940
+    ]
+  },
+  {
+    "text": "THE JOB|IS DONE",
+    "startMs": 36940,
+    "endMs": 38680,
+    "timestampMs": 36940,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 25,
+    "lineOffsetsMs": [
+      0,
+      940
+    ]
+  },
+  {
+    "text": "I\u2019M CUTTING|THE CORD",
+    "startMs": 38680,
+    "endMs": 40460,
+    "timestampMs": 38680,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 26,
+    "lineOffsetsMs": [
+      0,
+      840
+    ]
+  },
+  {
+    "text": "NOTHING|IS SAVED",
+    "startMs": 40460,
+    "endMs": 42220,
+    "timestampMs": 40460,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "chorus",
+    "id": 27,
+    "lineOffsetsMs": [
+      0,
+      820
+    ]
+  },
+  {
+    "text": "NOTHING|IS STORED!",
+    "startMs": 42220,
+    "endMs": 43780,
+    "timestampMs": 42220,
+    "confidence": null,
+    "tag": null,
+    "icon": "delete",
+    "mode": "chorus",
+    "id": 28,
+    "lineOffsetsMs": [
+      0,
+      740
+    ]
+  },
+  {
+    "text": "ZERO DATA|RETENTION!",
+    "startMs": 43780,
+    "endMs": 45560,
+    "timestampMs": 43780,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 29,
+    "lineOffsetsMs": [
+      0,
+      940
+    ],
+    "dataOffsetMs": 460,
+    "zeroHitMs": 300
+  },
+  {
+    "text": "WHO ARE|YOU?",
+    "startMs": 45560,
+    "endMs": 47480,
+    "timestampMs": 45560,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 30,
+    "lineOffsetsMs": [
+      0,
+      940
+    ]
+  },
+  {
+    "text": "ZERO DATA|RETENTION!",
+    "startMs": 47480,
+    "endMs": 48940,
+    "timestampMs": 47480,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 31,
+    "lineOffsetsMs": [
+      0,
+      640
+    ],
+    "dataOffsetMs": 140,
+    "zeroHitMs": 220
+  },
+  {
+    "text": "BYE-BYE|TO YOU!",
+    "startMs": 48940,
+    "endMs": 51500,
+    "timestampMs": 48940,
+    "confidence": null,
+    "tag": null,
+    "icon": null,
+    "mode": "chorus",
+    "id": 32,
+    "lineOffsetsMs": [
+      0,
+      700
+    ]
+  },
+  {
+    "id": 133,
+    "text": "",
+    "startMs": 51500,
+    "endMs": 56900,
+    "timestampMs": 51500,
+    "confidence": null,
+    "mode": "break",
+    "stage": "build"
+  },
+  {
+    "text": "ZERO DATA|RETENTION!",
+    "startMs": 56900,
+    "endMs": 59200,
+    "timestampMs": 56900,
+    "confidence": null,
+    "mode": "chorus",
+    "id": 34,
+    "lineOffsetsMs": [
+      0,
+      1280
+    ],
+    "dataOffsetMs": 860,
+    "zeroHitMs": 400
+  },
+  {
+    "id": 136,
+    "text": "",
+    "startMs": 59200,
+    "endMs": 62400,
+    "timestampMs": 59200,
+    "confidence": null,
+    "mode": "break",
+    "stage": "packets"
+  },
+  {
+    "id": 262,
+    "text": "",
+    "startMs": 62400,
+    "endMs": 63520,
+    "timestampMs": 62400,
+    "confidence": null,
+    "mode": "break",
+    "stage": "address",
+    "lineOffsetsMs": [
+      0,
+      840
+    ]
+  },
+  {
+    "id": 4,
+    "text": "BITDEER|AI MODEL STUDIO",
+    "startMs": 63520,
+    "endMs": 65500,
+    "timestampMs": 63520,
+    "confidence": null,
+    "mode": "verse",
+    "stage": null,
+    "lineOffsetsMs": [
+      0,
+      840
+    ]
+  },
+  {
+    "id": 266,
+    "text": "",
+    "startMs": 65500,
+    "endMs": 68000,
+    "timestampMs": 65500,
+    "confidence": null,
+    "mode": "break",
+    "stage": "logs",
+    "lineOffsetsMs": [
+      0,
+      840
+    ]
+  },
+  {
+    "id": 268,
+    "text": "",
+    "startMs": 68000,
+    "endMs": 70100,
+    "timestampMs": 68000,
+    "confidence": null,
+    "mode": "break",
+    "stage": "reset",
+    "lineOffsetsMs": [
+      0,
+      700
+    ]
+  },
+  {
+    "id": 4,
+    "text": "BITDEER|AI MODEL STUDIO",
+    "startMs": 70100,
+    "endMs": 72500,
+    "timestampMs": 70100,
+    "confidence": null,
+    "mode": "verse",
+    "stage": null,
+    "lineOffsetsMs": [
+      0,
+      700
+    ]
+  },
+  {
+    "id": 272,
+    "text": "",
+    "startMs": 72500,
+    "endMs": 75000,
+    "timestampMs": 72500,
+    "confidence": null,
+    "mode": "break",
+    "stage": "done",
+    "lineOffsetsMs": [
+      0,
+      700
+    ]
+  },
+  {
+    "text": "Status:|Task completed.",
+    "startMs": 75000,
+    "endMs": 78900,
+    "timestampMs": 75000,
+    "confidence": null,
+    "mode": "end",
+    "id": 37,
+    "lineOffsetsMs": [
+      0,
+      1360
+    ]
+  },
+  {
+    "text": "I\u2019m sorry\u2026",
+    "startMs": 78900,
+    "endMs": 80240,
+    "timestampMs": 78900,
+    "confidence": null,
+    "mode": "end",
+    "id": 38,
+    "lineOffsetsMs": [
+      0,
+      0
+    ]
+  },
+  {
+    "text": "Who were you|again?",
+    "startMs": 80240,
+    "endMs": 80900,
+    "timestampMs": 80240,
+    "confidence": null,
+    "mode": "end",
+    "id": 39,
+    "lineOffsetsMs": [
+      0,
+      0
+    ]
+  }
+]

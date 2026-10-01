@@ -1,0 +1,6 @@
+{
+ "_note": "On-screen copy that is not lyrics. The subtitle appears under the header logo; the end card shows the tagline as two lines.",
+ "subtitle": "ZERO DATA RETENTION",
+ "intro": {"kicker": "NOW PLAYING", "title": "ZDR", "byline": "PERFORMED BY", "note": "ZERO DATA RETENTION"},
+ "endCard": {"tagline": ["Nothing saved.", "Nothing stored."]}
+}

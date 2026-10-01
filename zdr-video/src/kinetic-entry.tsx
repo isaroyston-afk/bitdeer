@@ -1,0 +1,11 @@
+import React from 'react';
+import {registerRoot,Composition,AbsoluteFill,Sequence,useCurrentFrame,staticFile,Img} from 'remotion';
+import {Audio} from '@remotion/media';
+import {LyricScene} from './scenes/LyricScene';
+import cues from './captions.json';
+import {TokenCoins} from './scenes/TokenCoins';
+import {BuildScene} from './scenes/BuildScene';
+import {BreakScene} from './scenes/BreakScene';
+import {Backdrop,palette} from './Backdrop';
+const Video=()=>{const f=useCurrentFrame(),p=palette(f/60);return <AbsoluteFill><Backdrop/><Audio src={staticFile('audio.mp3')}/><Sequence from={0} durationInFrames={149}><TokenCoins/></Sequence>{cues.map((c,i)=><Sequence key={i} from={Math.round(c.startMs*.06)} durationInFrames={Math.round((c.endMs-c.startMs)*.06)+((c as any).stage==='build'?0:10)} name={c.text.replaceAll('|',' ')}>{(c as any).stage==='build'?<BuildScene/>:c.mode==='break'?<BreakScene stage={(c as any).stage} p={p} duration={(c.endMs-c.startMs)*.06}/>:<LyricScene cue={c} index={(c as any).id??i} p={p}/>}</Sequence>)}<div style={{position:'absolute',left:100,top:72,display:'flex',alignItems:'center',gap:28}}><Img src={staticFile('bitdeer-logo.svg')} style={{width:188,height:'auto'}}/><span style={{fontFamily:'Nimbus Mono PS,monospace',fontSize:18,letterSpacing:3,color:p.fg,opacity:.6}}>AI MODEL STUDIO</span></div><div style={{position:'absolute',right:100,bottom:70,fontFamily:'Nimbus Mono PS,monospace',fontSize:18,letterSpacing:4,color:p.fg,opacity:.45}}>ZERO DATA RETENTION</div></AbsoluteFill>};
+registerRoot(()=> <Composition id="ZeroDataRetention" component={Video} durationInFrames={4854} fps={60} width={1920} height={1080}/>);

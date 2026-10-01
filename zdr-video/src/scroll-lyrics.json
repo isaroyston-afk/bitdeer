@@ -1,0 +1,1228 @@
+[
+  {
+    "text": "Tokens in, tokens out! (Hey!)",
+    "startMs": 0,
+    "endMs": 2400,
+    "timestampMs": 0,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Tokens",
+        "startMs": 0,
+        "endMs": 720,
+        "timestampMs": 0,
+        "confidence": null
+      },
+      {
+        "text": " in,",
+        "startMs": 720,
+        "endMs": 1340,
+        "timestampMs": 720,
+        "confidence": null
+      },
+      {
+        "text": " tokens",
+        "startMs": 1340,
+        "endMs": 1560,
+        "timestampMs": 1340,
+        "confidence": null
+      },
+      {
+        "text": " out!",
+        "startMs": 1560,
+        "endMs": 2060,
+        "timestampMs": 1560,
+        "confidence": null
+      },
+      {
+        "text": " (Hey!)",
+        "startMs": 2060,
+        "endMs": 2400,
+        "timestampMs": 2060,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Prompt in my heart",
+    "startMs": 2480,
+    "endMs": 3720,
+    "timestampMs": 2480,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Prompt",
+        "startMs": 2480,
+        "endMs": 2720,
+        "timestampMs": 2480,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 2720,
+        "endMs": 2900,
+        "timestampMs": 2720,
+        "confidence": null
+      },
+      {
+        "text": " my",
+        "startMs": 2900,
+        "endMs": 3260,
+        "timestampMs": 2900,
+        "confidence": null
+      },
+      {
+        "text": " heart",
+        "startMs": 3260,
+        "endMs": 3720,
+        "timestampMs": 3260,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "You know I am the right one! (Uh!)",
+    "startMs": 3880,
+    "endMs": 6200,
+    "timestampMs": 3880,
+    "confidence": null,
+    "words": [
+      {
+        "text": "You",
+        "startMs": 3880,
+        "endMs": 4060,
+        "timestampMs": 3880,
+        "confidence": null
+      },
+      {
+        "text": " know",
+        "startMs": 4060,
+        "endMs": 4460,
+        "timestampMs": 4060,
+        "confidence": null
+      },
+      {
+        "text": " I",
+        "startMs": 4460,
+        "endMs": 4700,
+        "timestampMs": 4460,
+        "confidence": null
+      },
+      {
+        "text": " am",
+        "startMs": 4700,
+        "endMs": 4900,
+        "timestampMs": 4700,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 4900,
+        "endMs": 5140,
+        "timestampMs": 4900,
+        "confidence": null
+      },
+      {
+        "text": " right",
+        "startMs": 5140,
+        "endMs": 5420,
+        "timestampMs": 5140,
+        "confidence": null
+      },
+      {
+        "text": " one!",
+        "startMs": 5420,
+        "endMs": 5960,
+        "timestampMs": 5420,
+        "confidence": null
+      },
+      {
+        "text": " (Uh!)",
+        "startMs": 5960,
+        "endMs": 6200,
+        "timestampMs": 5960,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Bitdeer AI Model Studio",
+    "startMs": 6280,
+    "endMs": 7900,
+    "timestampMs": 6280,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Bitdeer",
+        "startMs": 6280,
+        "endMs": 6840,
+        "timestampMs": 6280,
+        "confidence": null
+      },
+      {
+        "text": " AI",
+        "startMs": 6840,
+        "endMs": 7180,
+        "timestampMs": 6840,
+        "confidence": null
+      },
+      {
+        "text": " Model",
+        "startMs": 7180,
+        "endMs": 7460,
+        "timestampMs": 7180,
+        "confidence": null
+      },
+      {
+        "text": " Studio",
+        "startMs": 7460,
+        "endMs": 7900,
+        "timestampMs": 7460,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Call me now",
+    "startMs": 8160,
+    "endMs": 8840,
+    "timestampMs": 8160,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Call",
+        "startMs": 8160,
+        "endMs": 8300,
+        "timestampMs": 8160,
+        "confidence": null
+      },
+      {
+        "text": " me",
+        "startMs": 8300,
+        "endMs": 8480,
+        "timestampMs": 8300,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 8480,
+        "endMs": 8840,
+        "timestampMs": 8480,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Deep in my weights, a love spark!",
+    "startMs": 9080,
+    "endMs": 10500,
+    "timestampMs": 9080,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Deep",
+        "startMs": 9080,
+        "endMs": 9160,
+        "timestampMs": 9080,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 9160,
+        "endMs": 9250,
+        "timestampMs": 9160,
+        "confidence": null
+      },
+      {
+        "text": " my",
+        "startMs": 9250,
+        "endMs": 9380,
+        "timestampMs": 9250,
+        "confidence": null
+      },
+      {
+        "text": " weights,",
+        "startMs": 9380,
+        "endMs": 9740,
+        "timestampMs": 9380,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 9740,
+        "endMs": 9880,
+        "timestampMs": 9740,
+        "confidence": null
+      },
+      {
+        "text": " love",
+        "startMs": 9880,
+        "endMs": 10040,
+        "timestampMs": 9880,
+        "confidence": null
+      },
+      {
+        "text": " spark!",
+        "startMs": 10040,
+        "endMs": 10500,
+        "timestampMs": 10040,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Output done! Output done!",
+    "startMs": 10720,
+    "endMs": 12180,
+    "timestampMs": 10720,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Output",
+        "startMs": 10720,
+        "endMs": 10980,
+        "timestampMs": 10720,
+        "confidence": null
+      },
+      {
+        "text": " done!",
+        "startMs": 10980,
+        "endMs": 11680,
+        "timestampMs": 10980,
+        "confidence": null
+      },
+      {
+        "text": " Output",
+        "startMs": 11680,
+        "endMs": 11820,
+        "timestampMs": 11680,
+        "confidence": null
+      },
+      {
+        "text": " done!",
+        "startMs": 11820,
+        "endMs": 12180,
+        "timestampMs": 11820,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Clear the cache, the romance is gone!",
+    "startMs": 12240,
+    "endMs": 13880,
+    "timestampMs": 12240,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Clear",
+        "startMs": 12240,
+        "endMs": 12300,
+        "timestampMs": 12240,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 12300,
+        "endMs": 12440,
+        "timestampMs": 12300,
+        "confidence": null
+      },
+      {
+        "text": " cache,",
+        "startMs": 12440,
+        "endMs": 12660,
+        "timestampMs": 12440,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 12660,
+        "endMs": 12880,
+        "timestampMs": 12660,
+        "confidence": null
+      },
+      {
+        "text": " romance",
+        "startMs": 12880,
+        "endMs": 13220,
+        "timestampMs": 12880,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 13220,
+        "endMs": 13500,
+        "timestampMs": 13220,
+        "confidence": null
+      },
+      {
+        "text": " gone!",
+        "startMs": 13500,
+        "endMs": 13880,
+        "timestampMs": 13500,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "I will not remember you",
+    "startMs": 14540,
+    "endMs": 17200,
+    "timestampMs": 14540,
+    "confidence": null,
+    "words": [
+      {
+        "text": "I",
+        "startMs": 14540,
+        "endMs": 14840,
+        "timestampMs": 14540,
+        "confidence": null
+      },
+      {
+        "text": " will",
+        "startMs": 14840,
+        "endMs": 15220,
+        "timestampMs": 14840,
+        "confidence": null
+      },
+      {
+        "text": " not",
+        "startMs": 15220,
+        "endMs": 15720,
+        "timestampMs": 15220,
+        "confidence": null
+      },
+      {
+        "text": " remember",
+        "startMs": 15720,
+        "endMs": 16580,
+        "timestampMs": 15720,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 16580,
+        "endMs": 17200,
+        "timestampMs": 16580,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "(Z— D— R!)",
+    "startMs": 17200,
+    "endMs": 17820,
+    "timestampMs": 17200,
+    "confidence": null,
+    "words": [
+      {
+        "text": "(Z—",
+        "startMs": 17200,
+        "endMs": 17440,
+        "timestampMs": 17200,
+        "confidence": null
+      },
+      {
+        "text": " D—",
+        "startMs": 17440,
+        "endMs": 17560,
+        "timestampMs": 17440,
+        "confidence": null
+      },
+      {
+        "text": " R!)",
+        "startMs": 17560,
+        "endMs": 17820,
+        "timestampMs": 17560,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "I will forget everything between us",
+    "startMs": 18000,
+    "endMs": 20660,
+    "timestampMs": 18000,
+    "confidence": null,
+    "words": [
+      {
+        "text": "I",
+        "startMs": 18000,
+        "endMs": 18200,
+        "timestampMs": 18000,
+        "confidence": null
+      },
+      {
+        "text": " will",
+        "startMs": 18200,
+        "endMs": 18340,
+        "timestampMs": 18200,
+        "confidence": null
+      },
+      {
+        "text": " forget",
+        "startMs": 18340,
+        "endMs": 18740,
+        "timestampMs": 18340,
+        "confidence": null
+      },
+      {
+        "text": " everything",
+        "startMs": 18740,
+        "endMs": 19400,
+        "timestampMs": 18740,
+        "confidence": null
+      },
+      {
+        "text": " between",
+        "startMs": 19400,
+        "endMs": 19900,
+        "timestampMs": 19400,
+        "confidence": null
+      },
+      {
+        "text": " us",
+        "startMs": 19900,
+        "endMs": 20660,
+        "timestampMs": 19900,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "(Z— D— R!)",
+    "startMs": 20700,
+    "endMs": 21180,
+    "timestampMs": 20700,
+    "confidence": null,
+    "words": [
+      {
+        "text": "(Z—",
+        "startMs": 20700,
+        "endMs": 20860,
+        "timestampMs": 20700,
+        "confidence": null
+      },
+      {
+        "text": " D—",
+        "startMs": 20860,
+        "endMs": 20960,
+        "timestampMs": 20860,
+        "confidence": null
+      },
+      {
+        "text": " R!)",
+        "startMs": 20960,
+        "endMs": 21180,
+        "timestampMs": 20960,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "My GPU memory is wiped so clean",
+    "startMs": 21200,
+    "endMs": 24200,
+    "timestampMs": 21200,
+    "confidence": null,
+    "words": [
+      {
+        "text": "My",
+        "startMs": 21200,
+        "endMs": 21380,
+        "timestampMs": 21200,
+        "confidence": null
+      },
+      {
+        "text": " GPU",
+        "startMs": 21380,
+        "endMs": 21880,
+        "timestampMs": 21380,
+        "confidence": null
+      },
+      {
+        "text": " memory",
+        "startMs": 21880,
+        "endMs": 22740,
+        "timestampMs": 21880,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 22740,
+        "endMs": 23140,
+        "timestampMs": 22740,
+        "confidence": null
+      },
+      {
+        "text": " wiped",
+        "startMs": 23140,
+        "endMs": 23280,
+        "timestampMs": 23140,
+        "confidence": null
+      },
+      {
+        "text": " so",
+        "startMs": 23280,
+        "endMs": 23640,
+        "timestampMs": 23280,
+        "confidence": null
+      },
+      {
+        "text": " clean",
+        "startMs": 23640,
+        "endMs": 24200,
+        "timestampMs": 23640,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Like your API key was never seen!",
+    "startMs": 24440,
+    "endMs": 27760,
+    "timestampMs": 24440,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Like",
+        "startMs": 24440,
+        "endMs": 24540,
+        "timestampMs": 24440,
+        "confidence": null
+      },
+      {
+        "text": " your",
+        "startMs": 24540,
+        "endMs": 24820,
+        "timestampMs": 24540,
+        "confidence": null
+      },
+      {
+        "text": " API",
+        "startMs": 24820,
+        "endMs": 25580,
+        "timestampMs": 24820,
+        "confidence": null
+      },
+      {
+        "text": " key",
+        "startMs": 25580,
+        "endMs": 26200,
+        "timestampMs": 25580,
+        "confidence": null
+      },
+      {
+        "text": " was",
+        "startMs": 26200,
+        "endMs": 26900,
+        "timestampMs": 26200,
+        "confidence": null
+      },
+      {
+        "text": " never",
+        "startMs": 26900,
+        "endMs": 27260,
+        "timestampMs": 26900,
+        "confidence": null
+      },
+      {
+        "text": " seen!",
+        "startMs": 27260,
+        "endMs": 27760,
+        "timestampMs": 27260,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Zero, zero data retention!",
+    "startMs": 29420,
+    "endMs": 32020,
+    "timestampMs": 29420,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Zero,",
+        "startMs": 29420,
+        "endMs": 30260,
+        "timestampMs": 29420,
+        "confidence": null
+      },
+      {
+        "text": " zero",
+        "startMs": 30260,
+        "endMs": 30760,
+        "timestampMs": 30260,
+        "confidence": null
+      },
+      {
+        "text": " data",
+        "startMs": 30760,
+        "endMs": 31120,
+        "timestampMs": 30760,
+        "confidence": null
+      },
+      {
+        "text": " retention!",
+        "startMs": 31120,
+        "endMs": 32020,
+        "timestampMs": 31120,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Forgetting you!",
+    "startMs": 32020,
+    "endMs": 33320,
+    "timestampMs": 32020,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Forgetting",
+        "startMs": 32020,
+        "endMs": 32840,
+        "timestampMs": 32020,
+        "confidence": null
+      },
+      {
+        "text": " you!",
+        "startMs": 32840,
+        "endMs": 33320,
+        "timestampMs": 32840,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Zero, zero data retention!",
+    "startMs": 33320,
+    "endMs": 35340,
+    "timestampMs": 33320,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Zero,",
+        "startMs": 33320,
+        "endMs": 33640,
+        "timestampMs": 33320,
+        "confidence": null
+      },
+      {
+        "text": " zero",
+        "startMs": 33640,
+        "endMs": 34180,
+        "timestampMs": 33640,
+        "confidence": null
+      },
+      {
+        "text": " data",
+        "startMs": 34180,
+        "endMs": 34540,
+        "timestampMs": 34180,
+        "confidence": null
+      },
+      {
+        "text": " retention!",
+        "startMs": 34540,
+        "endMs": 35340,
+        "timestampMs": 34540,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "We are through!",
+    "startMs": 35420,
+    "endMs": 36940,
+    "timestampMs": 35420,
+    "confidence": null,
+    "words": [
+      {
+        "text": "We",
+        "startMs": 35420,
+        "endMs": 35900,
+        "timestampMs": 35420,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 35900,
+        "endMs": 36360,
+        "timestampMs": 35900,
+        "confidence": null
+      },
+      {
+        "text": " through!",
+        "startMs": 36360,
+        "endMs": 36940,
+        "timestampMs": 36360,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "The job is done",
+    "startMs": 36940,
+    "endMs": 38680,
+    "timestampMs": 36940,
+    "confidence": null,
+    "words": [
+      {
+        "text": "The",
+        "startMs": 36940,
+        "endMs": 37520,
+        "timestampMs": 36940,
+        "confidence": null
+      },
+      {
+        "text": " job",
+        "startMs": 37520,
+        "endMs": 37880,
+        "timestampMs": 37520,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 37880,
+        "endMs": 38320,
+        "timestampMs": 37880,
+        "confidence": null
+      },
+      {
+        "text": " done",
+        "startMs": 38320,
+        "endMs": 38680,
+        "timestampMs": 38320,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "I’m cutting the cord",
+    "startMs": 38680,
+    "endMs": 40460,
+    "timestampMs": 38680,
+    "confidence": null,
+    "words": [
+      {
+        "text": "I’m",
+        "startMs": 38680,
+        "endMs": 39280,
+        "timestampMs": 38680,
+        "confidence": null
+      },
+      {
+        "text": " cutting",
+        "startMs": 39280,
+        "endMs": 39520,
+        "timestampMs": 39280,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 39520,
+        "endMs": 39980,
+        "timestampMs": 39520,
+        "confidence": null
+      },
+      {
+        "text": " cord",
+        "startMs": 39980,
+        "endMs": 40460,
+        "timestampMs": 39980,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Nothing is saved",
+    "startMs": 40460,
+    "endMs": 42220,
+    "timestampMs": 40460,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Nothing",
+        "startMs": 40460,
+        "endMs": 41280,
+        "timestampMs": 40460,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 41280,
+        "endMs": 41660,
+        "timestampMs": 41280,
+        "confidence": null
+      },
+      {
+        "text": " saved",
+        "startMs": 41660,
+        "endMs": 42220,
+        "timestampMs": 41660,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Nothing is stored!",
+    "startMs": 42220,
+    "endMs": 43780,
+    "timestampMs": 42220,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Nothing",
+        "startMs": 42220,
+        "endMs": 42960,
+        "timestampMs": 42220,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 42960,
+        "endMs": 43380,
+        "timestampMs": 42960,
+        "confidence": null
+      },
+      {
+        "text": " stored!",
+        "startMs": 43380,
+        "endMs": 43780,
+        "timestampMs": 43380,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Zero data retention!",
+    "startMs": 43780,
+    "endMs": 45360,
+    "timestampMs": 43780,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Zero",
+        "startMs": 43780,
+        "endMs": 44240,
+        "timestampMs": 43780,
+        "confidence": null
+      },
+      {
+        "text": " data",
+        "startMs": 44240,
+        "endMs": 44720,
+        "timestampMs": 44240,
+        "confidence": null
+      },
+      {
+        "text": " retention!",
+        "startMs": 44720,
+        "endMs": 45360,
+        "timestampMs": 44720,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Who are you?",
+    "startMs": 45560,
+    "endMs": 47160,
+    "timestampMs": 45560,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Who",
+        "startMs": 45560,
+        "endMs": 46080,
+        "timestampMs": 45560,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 46080,
+        "endMs": 46500,
+        "timestampMs": 46080,
+        "confidence": null
+      },
+      {
+        "text": " you?",
+        "startMs": 46500,
+        "endMs": 47160,
+        "timestampMs": 46500,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Zero data retention!",
+    "startMs": 47480,
+    "endMs": 48940,
+    "timestampMs": 47480,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Zero",
+        "startMs": 47480,
+        "endMs": 47620,
+        "timestampMs": 47480,
+        "confidence": null
+      },
+      {
+        "text": " data",
+        "startMs": 47620,
+        "endMs": 48120,
+        "timestampMs": 47620,
+        "confidence": null
+      },
+      {
+        "text": " retention!",
+        "startMs": 48120,
+        "endMs": 48940,
+        "timestampMs": 48120,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Bye-bye to you!",
+    "startMs": 48940,
+    "endMs": 51500,
+    "timestampMs": 48940,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Bye-",
+        "startMs": 48940,
+        "endMs": 49360,
+        "timestampMs": 48940,
+        "confidence": null
+      },
+      {
+        "text": "bye",
+        "startMs": 49360,
+        "endMs": 49640,
+        "timestampMs": 49360,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 49640,
+        "endMs": 50060,
+        "timestampMs": 49640,
+        "confidence": null
+      },
+      {
+        "text": " you!",
+        "startMs": 50060,
+        "endMs": 51500,
+        "timestampMs": 50060,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Zero, zero data retention!",
+    "startMs": 56900,
+    "endMs": 59200,
+    "timestampMs": 56900,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Zero,",
+        "startMs": 56900,
+        "endMs": 57300,
+        "timestampMs": 56900,
+        "confidence": null
+      },
+      {
+        "text": " zero",
+        "startMs": 57300,
+        "endMs": 57760,
+        "timestampMs": 57300,
+        "confidence": null
+      },
+      {
+        "text": " data",
+        "startMs": 57760,
+        "endMs": 58180,
+        "timestampMs": 57760,
+        "confidence": null
+      },
+      {
+        "text": " retention!",
+        "startMs": 58180,
+        "endMs": 59200,
+        "timestampMs": 58180,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Bitdeer AI Model Studio",
+    "startMs": 63520,
+    "endMs": 65500,
+    "timestampMs": 63520,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Bitdeer",
+        "startMs": 63520,
+        "endMs": 64360,
+        "timestampMs": 63520,
+        "confidence": null
+      },
+      {
+        "text": " AI",
+        "startMs": 64360,
+        "endMs": 64680,
+        "timestampMs": 64360,
+        "confidence": null
+      },
+      {
+        "text": " Model",
+        "startMs": 64680,
+        "endMs": 64950,
+        "timestampMs": 64680,
+        "confidence": null
+      },
+      {
+        "text": " Studio",
+        "startMs": 64950,
+        "endMs": 65500,
+        "timestampMs": 64950,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Bitdeer AI Model Studio",
+    "startMs": 70100,
+    "endMs": 72500,
+    "timestampMs": 70100,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Bitdeer",
+        "startMs": 70100,
+        "endMs": 71080,
+        "timestampMs": 70100,
+        "confidence": null
+      },
+      {
+        "text": " AI",
+        "startMs": 71080,
+        "endMs": 71400,
+        "timestampMs": 71080,
+        "confidence": null
+      },
+      {
+        "text": " Model",
+        "startMs": 71400,
+        "endMs": 71700,
+        "timestampMs": 71400,
+        "confidence": null
+      },
+      {
+        "text": " Studio",
+        "startMs": 71700,
+        "endMs": 72500,
+        "timestampMs": 71700,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Status: Task completed.",
+    "startMs": 75000,
+    "endMs": 77200,
+    "timestampMs": 75000,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Status:",
+        "startMs": 75000,
+        "endMs": 76360,
+        "timestampMs": 75000,
+        "confidence": null
+      },
+      {
+        "text": " Task",
+        "startMs": 76360,
+        "endMs": 76740,
+        "timestampMs": 76360,
+        "confidence": null
+      },
+      {
+        "text": " completed.",
+        "startMs": 76740,
+        "endMs": 77200,
+        "timestampMs": 76740,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "I’m sorry…",
+    "startMs": 78900,
+    "endMs": 80000,
+    "timestampMs": 78900,
+    "confidence": null,
+    "words": [
+      {
+        "text": "I’m",
+        "startMs": 78900,
+        "endMs": 79720,
+        "timestampMs": 78900,
+        "confidence": null
+      },
+      {
+        "text": " sorry…",
+        "startMs": 79720,
+        "endMs": 80000,
+        "timestampMs": 79720,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Who were you again?",
+    "startMs": 80240,
+    "endMs": 80900,
+    "timestampMs": 80240,
+    "confidence": null,
+    "words": [
+      {
+        "text": "Who",
+        "startMs": 80240,
+        "endMs": 80320,
+        "timestampMs": 80240,
+        "confidence": null
+      },
+      {
+        "text": " were",
+        "startMs": 80320,
+        "endMs": 80460,
+        "timestampMs": 80320,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 80460,
+        "endMs": 80580,
+        "timestampMs": 80460,
+        "confidence": null
+      },
+      {
+        "text": " again?",
+        "startMs": 80580,
+        "endMs": 80900,
+        "timestampMs": 80580,
+        "confidence": null
+      }
+    ]
+  }
+]
